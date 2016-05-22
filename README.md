@@ -8,5 +8,6 @@
 - [Facebook](https://www.facebook.com/whitehat)
 - [Github](https://help.github.com/articles/responsible-disclosure-of-security-vulnerabilities/)
 - [Google](https://www.google.com/about/appsecurity/)
+- [LinkedIn](https://www.linkedin.com/help/linkedin/answer/37022?lang=en)
 - [Petlove](https://www.petlove.com.br/empresa/politica-white-hat)
 - [Twitter](https://about.twitter.com/pt/company/security)
