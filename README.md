@@ -4,6 +4,7 @@
 
 - [ClickSubmit](https://www.clicksubmit.co.uk/seo/white-hat-policy)
 - [Facebook](https://www.facebook.com/whitehat)
+- [Github](https://help.github.com/articles/responsible-disclosure-of-security-vulnerabilities/)
 - [Google](https://www.google.com/about/appsecurity/)
 - [Petlove](https://www.petlove.com.br/empresa/politica-white-hat)
 - [Twitter](https://about.twitter.com/pt/company/security)
